@@ -1,0 +1,14 @@
+C:\Users\lzm\Desktop\watermark_detection\watermark_detection\neg_hard_window\0010_0_rec.png 
+C:\Users\lzm\Desktop\watermark_detection\watermark_detection\neg_hard_window\0011_0_rec.png 
+C:\Users\lzm\Desktop\watermark_detection\watermark_detection\neg_hard_window\0011_1_rec.png 
+C:\Users\lzm\Desktop\watermark_detection\watermark_detection\neg_hard_window\0023_0_rec.png 
+C:\Users\lzm\Desktop\watermark_detection\watermark_detection\neg_hard_window\0037_0_rec.png 
+C:\Users\lzm\Desktop\watermark_detection\watermark_detection\neg_hard_window\0060_0_rec.png 
+C:\Users\lzm\Desktop\watermark_detection\watermark_detection\neg_hard_window\0076_0_rec.png 
+C:\Users\lzm\Desktop\watermark_detection\watermark_detection\neg_hard_window\0084_0_rec.png 
+C:\Users\lzm\Desktop\watermark_detection\watermark_detection\neg_hard_window\0106_0_rec.png 
+C:\Users\lzm\Desktop\watermark_detection\watermark_detection\neg_hard_window\0117_0_rec.png 
+C:\Users\lzm\Desktop\watermark_detection\watermark_detection\neg_hard_window\0147_0_rec.png 
+C:\Users\lzm\Desktop\watermark_detection\watermark_detection\neg_hard_window\0168_0_rec.png 
+C:\Users\lzm\Desktop\watermark_detection\watermark_detection\neg_hard_window\0174_0_rec.png 
+C:\Users\lzm\Desktop\watermark_detection\watermark_detection\neg_hard_window\0178_0_rec.png 
